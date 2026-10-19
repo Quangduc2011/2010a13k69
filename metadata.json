@@ -1,0 +1,6 @@
+{
+  "name": "BLOOM FOR YOU",
+  "description": "A little gift from 10A13 - K69 celebrating Vietnamese Women's Day 20/10 with personalized heartfelt wishes for 36 girls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
